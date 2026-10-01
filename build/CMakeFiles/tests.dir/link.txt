@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/tests.dir/link.d CMakeFiles/tests.dir/tests/test_vec2.cpp.o CMakeFiles/tests.dir/tests/test_bubblesort.cpp.o -o tests  /usr/local/lib/libCatch2Main.a _deps/fmt-build/libfmt.a /usr/local/lib/libCatch2.a

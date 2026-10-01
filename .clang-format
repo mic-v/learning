@@ -1,0 +1,8 @@
+# My personal configuration for clang-format 
+---
+Language: Cpp
+PointerAlignment: Left
+NamespaceIndentation: None 
+IndentWidth: 4
+BreakBeforeBraces: Linux 
+---

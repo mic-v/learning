@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mic/projects/learning/build/cmake_install.cmake",
+		"/home/mic/projects/learning/build/_deps/fmt-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

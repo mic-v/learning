@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mic/projects/learning/build/_deps/fmt-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

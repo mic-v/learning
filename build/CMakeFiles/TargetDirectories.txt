@@ -1,0 +1,15 @@
+/home/mic/projects/learning/build/CMakeFiles/learning.dir
+/home/mic/projects/learning/build/CMakeFiles/tests.dir
+/home/mic/projects/learning/build/CMakeFiles/edit_cache.dir
+/home/mic/projects/learning/build/CMakeFiles/rebuild_cache.dir
+/home/mic/projects/learning/build/CMakeFiles/list_install_components.dir
+/home/mic/projects/learning/build/CMakeFiles/install.dir
+/home/mic/projects/learning/build/CMakeFiles/install/local.dir
+/home/mic/projects/learning/build/CMakeFiles/install/strip.dir
+/home/mic/projects/learning/build/_deps/fmt-build/CMakeFiles/fmt.dir
+/home/mic/projects/learning/build/_deps/fmt-build/CMakeFiles/edit_cache.dir
+/home/mic/projects/learning/build/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+/home/mic/projects/learning/build/_deps/fmt-build/CMakeFiles/list_install_components.dir
+/home/mic/projects/learning/build/_deps/fmt-build/CMakeFiles/install.dir
+/home/mic/projects/learning/build/_deps/fmt-build/CMakeFiles/install/local.dir
+/home/mic/projects/learning/build/_deps/fmt-build/CMakeFiles/install/strip.dir
